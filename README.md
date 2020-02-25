@@ -1,4 +1,8 @@
 ## <b>Repositório de Códigos em Python - FUP</b>
+[![GitHub issues](https://img.shields.io/github/issues/maumneto/exercicio-python)](https://github.com/maumneto/exercicio-python/issues)
+[![GitHub forks](https://img.shields.io/github/forks/maumneto/exercicio-python)](https://github.com/maumneto/exercicio-python/network)
+[![GitHub stars](https://img.shields.io/github/stars/maumneto/exercicio-python)](https://github.com/maumneto/exercicio-python/stargazers)
+[![GitHub](https://img.shields.io/badge/version-1.0.0-orange)](https://img.shields.io/badge/version-1.0.0-orange)
 
 - Repositório para os códigos Python da disciplina de Fundamentos de Programação (CK0030)
 - O intuito deste repositório é fornecer aos alunos de fundamentos de programação
