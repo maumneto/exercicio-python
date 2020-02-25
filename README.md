@@ -69,6 +69,5 @@ $ python3 main.py
 
 -----
 ### <b>Let's go coding!!</b>
-<center>
-    <img scr="https://media.giphy.com/media/LmNwrBhejkK9EFP504/source.gif" width="200" height="200">
-</center>
+
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250" height="250" />
