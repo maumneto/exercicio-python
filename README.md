@@ -52,20 +52,22 @@ exercicio-python
 - Para executar códigos basta abrir o `terminal` (se estiver no *windows* é o `prompt` ou `cmd`) e se dirigir até o diretório onde esta o código que deseja ser executado
   
 - Dentro do diretório execute:
-```console
+~~~console
 $ python3 nome_do_programa.py
-```
+~~~
 
 - <b>Exemplo:</b>
 
 primeiro_codigo.py
-```python
+~~~python
 print('Olá Mundo! Este é meu primeiro código em Python!')
-```
-```console
+~~~
+No terminal, vá até o diretório onde o código esta e execute:
+ 
+~~~console
 $ python3 primeiro_codigo.py
 > Olá Mundo! Este é meu primeiro código em Python!
-```
+~~~
 
 -----
 ### <b>Projeto 1 - Digital Banking</b>
