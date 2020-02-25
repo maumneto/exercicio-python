@@ -60,7 +60,7 @@ $ python3 nome_do_programa.py
 
 primeiro_codigo.py
 ```python
-    print('Olá Mundo! Este é meu primeiro código em Python!')
+print('Olá Mundo! Este é meu primeiro código em Python!')
 ```
 ```console
 $ python3 primeiro_codigo.py
