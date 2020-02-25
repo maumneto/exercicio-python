@@ -20,7 +20,7 @@
 ### <b>Hierarquia dos Materiais</b>
 - Cada `folder` possui um conjunto de arquivos C referentes as questões da lista de exercícios
   
-- A resolução da lista de exercício é de fundamental importância para a fixação do conteúdo ministrado (além de ser divertido :smile:)
+- A resolução da lista é de fundamental importância para a fixação do conteúdo ministrado (além de ser divertido :smile:)
   
 - A seguir é apresentado o diagrama dos arquivos do repositório: 
   
@@ -49,10 +49,22 @@ exercicio-python
 
 -----
 ### <b>Executando Códigos Python</b>
-- Para executar códigos basta abrir o `terminal` (se estiver no *windows* é o `prompt` ou `cmd`) e se dirigir até o diretório onde esta o código que deseja ser executado.
+- Para executar códigos basta abrir o `terminal` (se estiver no *windows* é o `prompt` ou `cmd`) e se dirigir até o diretório onde esta o código que deseja ser executado
+  
 - Dentro do diretório execute:
 ```console
 $ python3 nome_do_programa.py
+```
+
+- <b>Exemplo:</b>
+
+primeiro_codigo.py
+```python
+    print('Olá Mundo! Este é meu primeiro código em Python!')
+```
+```console
+$ python3 primeiro_codigo.py
+> Olá Mundo! Este é meu primeiro código em Python!
 ```
 
 -----
