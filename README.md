@@ -5,6 +5,7 @@
 [![GitHub](https://img.shields.io/badge/version-1.0.0-orange)](https://img.shields.io/badge/version-1.0.0-orange)
 
 - Repositório para os códigos Python da disciplina de Fundamentos de Programação (CK0030)
+  
 - O intuito deste repositório é fornecer aos alunos de fundamentos de programação
   
 -----
@@ -18,7 +19,10 @@
 -----
 ### <b>Hierarquia dos Materiais</b>
 - Cada `folder` possui um conjunto de arquivos C referentes as questões da lista de exercícios
+  
 - A resolução da lista de exercício é de fundamental importância para a fixação do conteúdo ministrado (além de ser divertido :smile:)
+  
+- A seguir é apresentado o diagrama dos arquivos do repositório: 
   
 ```bash
 exercicio-python
@@ -52,3 +56,19 @@ $ python3 nome_do_programa.py
 ```
 
 -----
+### <b>Projeto 1 - Digital Banking</b>
+- O projeto `digita banking` tem o objetivo de desenvolver um banco digital sem persistência de dados
+
+- Este projeto server para treinar os elementos básicos da linguagem Python 3
+
+- Para executar este projeto basta utilizar o comando:
+
+```console
+$ python3 main.py
+``` 
+
+-----
+### <b>Let's go coding!!</b>
+<center>
+    <img scr="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200px" height="200px">
+</center>
