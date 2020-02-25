@@ -70,5 +70,5 @@ $ python3 main.py
 -----
 ### <b>Let's go coding!!</b>
 <center>
-    <img scr="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200px" height="200px">
+    <img scr="https://media.giphy.com/media/LmNwrBhejkK9EFP504/source.gif" width="200" height="200">
 </center>
