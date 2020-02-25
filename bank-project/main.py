@@ -13,21 +13,19 @@ from register import create_account
 from search import search_account, show_all_registries
 from debit import debit
 from credit import credit
-from transfer import *
+from transfer import transference
 
 # function main
-
-
 def main():
     # clear terminal
     os.system('clear')
     # initial prints
     welcome_screen()
-    option_screen()
     # creating de list of clients (initially empty)
     list_of_clients = []
 
     while True:
+        option_screen()
         # choosing an action!
         ch = int(input('Type action: '))
         os.system('clear')

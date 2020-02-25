@@ -28,5 +28,6 @@ def create_account(name = None, cpf = 0, clients = None):
     # welcome prints
     print('\nWelcome Mr(s) %s!' % client['name'].upper())
     print('\nYour account number is: %d' % client['account'])
+    print('\n')
 
     
