@@ -43,8 +43,7 @@ exercicio-python
 │   └── register.py
 │
 ├── .gitignore
-├── README.md
-└── ...
+└── README.md
 ```
 
 -----
