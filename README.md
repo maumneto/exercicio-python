@@ -25,14 +25,14 @@
 - A seguir é apresentado o diagrama dos arquivos do repositório: 
   
 ```bash
-exercicio-python
+exercicio-python/
 │
-├── lista-exercicio
+├── lista-exercicio/
 │   ├── questao-1.py
 │   ├── questao-2.py
 │   └── ...
 │
-├── bank-project
+├── bank-project/
 │   ├── main.py
 │   ├── search.py
 │   ├── screens.py
