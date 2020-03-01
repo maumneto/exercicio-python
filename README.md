@@ -42,7 +42,7 @@ exercicio-python
 │   ├── credit.py
 │   └── register.py
 │
-├── .gitignore
+├── gitignore
 └── README.md
 ```
 
