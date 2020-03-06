@@ -27,6 +27,11 @@
 ```bash
 exercicio-python/
 │
+├── codigos-aula/
+│   ├── aula0.py
+│   ├── imc.py
+│   └── ...
+│
 ├── lista-exercicio/
 │   ├── questao-1.py
 │   ├── questao-2.py
