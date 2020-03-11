@@ -28,8 +28,8 @@
 exercicio-python/
 │
 ├── codigos-aula/
-│   ├── aula0.py
-│   ├── imc.py
+│   ├── cod0.py
+│   ├── cod1.py
 │   └── ...
 │
 ├── lista-exercicio/
