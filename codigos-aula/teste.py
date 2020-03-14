@@ -3,11 +3,8 @@
 import math
 '''
 Este codigo apresenta caracteristicas de uma linguagem fracamente tipada.
-jfibgidsbifsbjf
-
-asodfndifnd
 '''
-idade = 33
+idade = 33 
 print(type(idade))
 idade = 34.5
 print(type(idade))
@@ -21,7 +18,7 @@ print(type(idade))
 nota1 = float(input('Nota1: '))
 nota2 = float(input('Nota2: '))
 media  = (nota1+nota2)/2
-if media >= 7:
+if (media >= 7):
     print('Parabéns')
     print('Esta aprovado!')
     print('Vaza!')
