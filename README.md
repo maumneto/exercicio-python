@@ -18,7 +18,7 @@
 
 -----
 ### <b>Hierarquia dos Materiais</b>
-- Cada `folder` possui um conjunto de arquivos C referentes as questões da lista de exercícios
+- Cada `folder` possui um conjunto de arquivos Python referentes as questões da lista de exercícios
   
 - A resolução da lista é de fundamental importância para a fixação do conteúdo ministrado (além de ser divertido :smile:)
   
