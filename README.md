@@ -6,7 +6,7 @@
 
 - Repositório para os códigos Python da disciplina de Fundamentos de Programação (CK0030)
   
-- O intuito deste repositório é fornecer aos alunos de fundamentos de programação
+- O intuito deste repositório é fornecer um suporte aos alunos de fundamentos de programação durante o desenvolvimento de seus códigos 
   
 -----
 ### <b>Informação sobre o Professor</b>
