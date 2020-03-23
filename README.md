@@ -75,7 +75,7 @@ $ python3 primeiro_codigo.py
 
 -----
 ### <b>Projeto 1 - Digital Banking</b>
-- O projeto `digital banking` tem o objetivo de desenvolver um banco digital sem persistência de dados
+- O projeto `digital banking` tem o objetivo de desenvolver um banco digital <b>sem</b> persistência de dados
 
 - Este projeto server para treinar os elementos básicos da linguagem Python 3
 
