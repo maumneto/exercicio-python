@@ -62,11 +62,11 @@ $ python3 nome_do_programa.py
 
 - <b>Exemplo:</b>
 
-primeiro_codigo.py
+> primeiro_codigo.py
 ~~~python
 print('Olá Mundo! Este é meu primeiro código em Python!')
 ~~~
-No terminal, vá até o diretório onde o código esta e execute:
+No terminal, vá até o diretório onde o código se encontra e execute:
  
 ~~~console
 $ python3 primeiro_codigo.py
@@ -77,7 +77,7 @@ $ python3 primeiro_codigo.py
 ### <b>Projeto 1 - Digital Banking</b>
 - O projeto `digital banking` tem o objetivo de desenvolver um banco digital sem persistência de dados
 
-- Este projeto server para treinar os elementos básicos da linguagem Python 3
+- Este projeto serve para treinar os elementos básicos da linguagem Python 3
 
 - Para executar este projeto basta utilizar o comando:
 
