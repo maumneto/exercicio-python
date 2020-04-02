@@ -32,3 +32,11 @@ def verify_client(client = None):
         print('\033[1mError! data not added!\033[0m')
     else:
         print('\033[1mClient successfully added!\033[0m')
+
+
+# Create Account By Increment
+# @params: client [object]
+# @return: void
+def createAccountByIncrement(array_clients):
+    account = len(array_clients)
+    return account
