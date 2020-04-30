@@ -47,6 +47,10 @@ exercicio-python/
 │   ├── credit.py
 │   └── register.py
 │
+├── projetos-rapidos/
+│   ├── jokenpo-simples.py
+│   └── ...
+│
 ├── gitignore
 └── README.md
 ```
