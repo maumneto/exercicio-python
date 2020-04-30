@@ -1,5 +1,6 @@
 '''
 PROJETO JOKENPO USANDO RECURSOS MAIS AVANÇADOS QUE A VERSÃO SIMPLES.
+criado por @maumneto
 '''
 
 from random import randint
@@ -8,6 +9,7 @@ import os
 
 # funcao que cria a tela de boas vindas ao jogo!
 def welcomeScreen():
+    os.system('clear')
     print('-='*16)
     print('\033[1m BEM VINDO AO JOGO JO-KEN-PO \033[0m')
     print('\033[1m criado por @maumneto \033[0m')
@@ -102,12 +104,18 @@ def main():
             print('A pontuacao foi: ')
             print('Voce: %d' % usrScr)
             print('Computador: %d' % pcScr)
+
+            # verificar quem venceu e quem perdeu!
             if (usrScr > pcScr):
-                print('Voce foi o Vencedor! Parabens!')
+                print('')
+                print('Voce foi o Vencedor! Parabens! ╰(▔∀▔)╯')
             elif (usrScr < pcScr):
-                print('Voce Perdeu! Melhor Sorte da Proxima Vez!')
+                print('')
+                print('Voce Perdeu! Melhor Sorte da Proxima Vez! ┐(¯ヘ¯)┌')
             else:
+                print('')
                 print('Deu Empate! ¯\_(ツ)_/¯')
+            break   
         else:
             print('Vamos Novamente!\n')
 
