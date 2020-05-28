@@ -1,4 +1,4 @@
-## **Repositório de Códigos em Python - FUP**
+# **Repositório de Códigos em Python - FUP**
 
 [![GitHub issues](https://img.shields.io/github/issues/maumneto/exercicio-python)](https://github.com/maumneto/exercicio-python/issues)
 [![GitHub forks](https://img.shields.io/github/forks/maumneto/exercicio-python)](https://github.com/maumneto/exercicio-python/network)
@@ -11,7 +11,7 @@
   
 -----
 
-### **Informação sobre o Professor**
+## **Informação sobre o Professor**
 
 - Prof. Maurício Moreira Neto
   
@@ -25,7 +25,7 @@
 
 -----
 
-### **Hierarquia dos Materiais**
+## **Hierarquia dos Materiais**
 
 - Cada `folder` possui um conjunto de arquivos Python referentes as questões da lista de exercícios
   
@@ -66,7 +66,7 @@ exercicio-python/
 
 -----
 
-### **Executando Códigos Python**
+## **Executando Códigos Python**
 
 - Assumi-se aqui que você já instalou o Python 3
 
@@ -95,7 +95,7 @@ $ python3 primeiro_codigo.py
 
 -----
 
-### **Projeto 1 - Digital Banking**
+## **Projeto 1 - Digital Banking**
 
 - O projeto `digital banking` tem o objetivo de desenvolver um banco digital **sem** persistência de dados
 
@@ -109,6 +109,8 @@ python3 main.py
 
 -----
 
-### **Let's go coding!**
+## **Let's go coding!**
 
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250" height="250"/>
+<!-- <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250" height="250"/> -->
+
+![Alt Text](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
