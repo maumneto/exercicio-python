@@ -89,7 +89,7 @@ print('Olá Mundo! Este é meu primeiro código em Python!')
 No terminal, vá até o diretório onde o código se encontra e execute:
 
 ```console
-$ python3 primeiro_codigo.py
+python3 primeiro_codigo.py
 > Olá Mundo! Este é meu primeiro código em Python!
 ```
 
@@ -110,7 +110,5 @@ python3 main.py
 -----
 
 ## **Let's go coding!**
-
-<!-- <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250" height="250"/> -->
 
 ![Alt Text](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
