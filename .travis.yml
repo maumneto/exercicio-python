@@ -1,0 +1,22 @@
+language: python
+os: 
+  - osx
+
+python:
+  - "2.7"
+  - "3.6"
+  - "3.7"
+
+before_install:
+  - python --version
+  - pip3 install -U pytest
+  - pip3 install codecov
+
+script:
+  -  coverage run exercicio-condicional/questao-1.py
+  -  coverage run exercicio-condicional/questao-2.py
+  -  coverage run exercicio-condicional/questao-3.py
+  -  coverage run exercicio-condicional/questao-4.py
+
+after_success:
+  - codecov
