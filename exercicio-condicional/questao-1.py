@@ -6,7 +6,7 @@ do salário imprima: “Empréstimo não concedido”; caso contrário imprima: 
 
 # entrada de dados
 salarao = float(input('Digite o valor do salario: '))
-prestacao = int(input('Digite o valor da prestacao: '))
+prestacao = float(input('Digite o valor da prestacao: '))
 
 # condicional
 if (prestacao > 0.2*salarao):

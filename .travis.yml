@@ -9,10 +9,11 @@ before_install:
   - pip3 install codecov
 
 script:
-  -  coverage run exercicio-condicional/questao-1.py
-  -  coverage run exercicio-condicional/questao-2.py
-  -  coverage run exercicio-condicional/questao-3.py
-  -  coverage run exercicio-condicional/questao-4.py
+  # testing code of exercicio-condicional folder
+  -  python3 exercicio-condicional/questao-1.py < exercicio-condicional/questao-1.txt
+  -  python3 exercicio-condicional/questao-2.py < exercicio-condicional/questao-2.txt
+  -  python3 exercicio-condicional/questao-3.py < exercicio-condicional/questao-3.txt
+  -  python3 exercicio-condicional/questao-4.py < exercicio-condicional/questao-4.txt
 
 after_success:
   - codecov
