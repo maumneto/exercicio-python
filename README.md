@@ -35,7 +35,7 @@
   
 - A seguir é apresentado o diagrama dos arquivos do repositório:
   
-```bash
+```markdown
 exercicio-python/
 │
 ├── codigos-aula/
@@ -62,7 +62,13 @@ exercicio-python/
 │   ├── jokenpo-simples.py
 │   └── ...
 │
+├── tests
+│   ├── exercicio-condicional-tests
+│   └── ...
+│
 ├── gitignore
+├── .travis.yml
+├── LICENSE
 └── README.md
 ```
 
