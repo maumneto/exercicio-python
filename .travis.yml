@@ -16,22 +16,22 @@ script:
   -  coverage run exercicio-condicional/questao-4.py < tests/exercicio-condicional-tests/questao-4.txt
 
   # testing code of lista-exercicio folder
-  - python3 lista-exercicio/questao-1.py
-  - python3 lista-exercicio/questao-2.py < tests/lista-exercicio-tests/questao-2.txt
-  - python3 lista-exercicio/questao-3.py < tests/lista-exercicio-tests/questao-3.txt
-  - python3 lista-exercicio/questao-4.py < tests/lista-exercicio-tests/questao-4.txt
-  - python3 lista-exercicio/questao-5.py < tests/lista-exercicio-tests/questao-5.txt
-  - python3 lista-exercicio/questao-6.py < tests/lista-exercicio-tests/questao-6.txt
-  - python3 lista-exercicio/questao-7.py < tests/lista-exercicio-tests/questao-7.txt
-  - python3 lista-exercicio/questao-8.py < tests/lista-exercicio-tests/questao-8.txt
-  - python3 lista-exercicio/questao-9.py < tests/lista-exercicio-tests/questao-9.txt
-  - python3 lista-exercicio/questao-10.py < tests/lista-exercicio-tests/questao-10.txt
-  - python3 lista-exercicio/questao-11.py < tests/lista-exercicio-tests/questao-11.txt
-  - python3 lista-exercicio/questao-12.py < tests/lista-exercicio-tests/questao-12.txt
+  - coverage run lista-exercicio/questao-1.py
+  - coverage run lista-exercicio/questao-2.py < tests/lista-exercicio-tests/questao-2.txt
+  - coverage run lista-exercicio/questao-3.py < tests/lista-exercicio-tests/questao-3.txt
+  - coverage run lista-exercicio/questao-4.py < tests/lista-exercicio-tests/questao-4.txt
+  - coverage run lista-exercicio/questao-5.py < tests/lista-exercicio-tests/questao-5.txt
+  - coverage run lista-exercicio/questao-6.py < tests/lista-exercicio-tests/questao-6.txt
+  - coverage run lista-exercicio/questao-7.py < tests/lista-exercicio-tests/questao-7.txt
+  - coverage run lista-exercicio/questao-8.py < tests/lista-exercicio-tests/questao-8.txt
+  - coverage run lista-exercicio/questao-9.py < tests/lista-exercicio-tests/questao-9.txt
+  - coverage run lista-exercicio/questao-10.py < tests/lista-exercicio-tests/questao-10.txt
+  - coverage run lista-exercicio/questao-11.py < tests/lista-exercicio-tests/questao-11.txt
+  - coverage run lista-exercicio/questao-12.py < tests/lista-exercicio-tests/questao-12.txt
 
   # testing code of lista-exercicio folder
-  - python3 projetos-rapidos/jokenpo-simples.py < tests/projetos-rapidos-tests/jokenpo-simples.txt
-  - python3 projetos-rapidos/jokenpo-final.py < tests/projetos-rapidos-tests/jokenpo-final.txt
+  - coverage run projetos-rapidos/jokenpo-simples.py < tests/projetos-rapidos-tests/jokenpo-simples.txt
+  - coverage run projetos-rapidos/jokenpo-final.py < tests/projetos-rapidos-tests/jokenpo-final.txt
 
 after_success:
   - codecov
