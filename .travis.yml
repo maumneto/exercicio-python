@@ -33,6 +33,7 @@ script:
   - coverage run projetos-rapidos/jokenpo-simples.py < tests/projetos-rapidos-tests/jokenpo-simples.txt
   - coverage run projetos-rapidos/jokenpo-final.py < tests/projetos-rapidos-tests/jokenpo-final.txt
   - coverage run projetos-rapidos/cryptoWord.py < tests/projetos-rapidos-tests/cryptoWord.txt
+  - coverage run projetos-rapidos/cryptoWord.py < tests/projetos-rapidos-tests/cryptoMessage.txt
 
 after_success:
   - codecov
