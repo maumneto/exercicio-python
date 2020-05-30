@@ -10,10 +10,10 @@ before_install:
 
 script:
   # testing code of exercicio-condicional folder
-  -  python3 exercicio-condicional/questao-1.py < tests/exercicio-condicional-tests/questao-1.txt
-  -  python3 exercicio-condicional/questao-2.py < tests/exercicio-condicional-tests/questao-2.txt
-  -  python3 exercicio-condicional/questao-3.py < tests/exercicio-condicional-tests/questao-3.txt
-  -  python3 exercicio-condicional/questao-4.py < tests/exercicio-condicional-tests/questao-4.txt
+  -  coverage run exercicio-condicional/questao-1.py < tests/exercicio-condicional-tests/questao-1.txt
+  -  coverage run exercicio-condicional/questao-2.py < tests/exercicio-condicional-tests/questao-2.txt
+  -  coverage run exercicio-condicional/questao-3.py < tests/exercicio-condicional-tests/questao-3.txt
+  -  coverage run exercicio-condicional/questao-4.py < tests/exercicio-condicional-tests/questao-4.txt
 
   # testing code of lista-exercicio folder
   - python3 lista-exercicio/questao-1.py
@@ -31,9 +31,7 @@ script:
 
   # testing code of lista-exercicio folder
   - python3 projetos-rapidos/jokenpo-simples.py < tests/projetos-rapidos-tests/jokenpo-simples.txt
-  
-
-
+  - python3 projetos-rapidos/jokenpo-final.py < tests/projetos-rapidos-tests/jokenpo-final.txt
 
 after_success:
   - codecov
