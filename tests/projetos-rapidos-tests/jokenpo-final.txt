@@ -1,0 +1,6 @@
+pedra
+s
+tesoura
+s
+papel
+n

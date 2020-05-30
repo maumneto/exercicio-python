@@ -29,6 +29,11 @@ script:
   - python3 lista-exercicio/questao-11.py < tests/lista-exercicio-tests/questao-11.txt
   - python3 lista-exercicio/questao-12.py < tests/lista-exercicio-tests/questao-12.txt
 
+  # testing code of lista-exercicio folder
+  - python3 projetos-rapidos/jokenpo-simples.py < tests/projetos-rapidos-tests/jokenpo-simples.txt
+  
+
+
 
 after_success:
   - codecov
