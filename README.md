@@ -4,6 +4,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/maumneto/exercicio-python)](https://github.com/maumneto/exercicio-python/network)
 [![GitHub stars](https://img.shields.io/github/stars/maumneto/exercicio-python)](https://github.com/maumneto/exercicio-python/stargazers)
 [![GitHub](https://img.shields.io/badge/version-1.0.0-orange)](https://img.shields.io/badge/version-1.0.0-orange)
+[![GitHub license](https://img.shields.io/github/license/maumneto/exercicio-python)](https://github.com/maumneto/exercicio-python/blob/master/LICENSE)
 [![Build Status](https://travis-ci.com/maumneto/exercicio-python.svg?branch=master)](https://travis-ci.com/maumneto/exercicio-python)
 
 - Repositório para os códigos Python da disciplina de Fundamentos de Programação (CK0030)
