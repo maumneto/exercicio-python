@@ -62,7 +62,7 @@ exercicio-python/
 │   ├── jokenpo-simples.py
 │   └── ...
 │
-├── tests
+├── tests/
 │   ├── exercicio-condicional-tests
 │   └── ...
 │
