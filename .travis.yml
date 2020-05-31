@@ -35,5 +35,8 @@ script:
   - coverage run projetos-rapidos/cryptoWord.py < tests/projetos-rapidos-tests/cryptoWord.txt
   - coverage run projetos-rapidos/cryptoWord.py < tests/projetos-rapidos-tests/cryptoMessage.txt
 
+  # testing code of bank-project folder
+  - coverage run bank-project/main.py < tests/bank-project-tests/bank-project.txt
+
 after_success:
   - codecov
