@@ -6,14 +6,12 @@
 [![GitHub](https://img.shields.io/badge/version-1.0.0-orange)](https://img.shields.io/badge/version-1.0.0-orange)
 [![GitHub license](https://img.shields.io/github/license/maumneto/exercicio-python)](https://github.com/maumneto/exercicio-python/blob/master/LICENSE)
 [![Build Status](https://travis-ci.org/maumneto/exercicio-python.svg?branch=master)](https://travis-ci.org/maumneto/exercicio-python)
-
-- Repositório para os códigos Python da disciplina de Fundamentos de Programação (CK0030)
   
-- O intuito deste repositório é fornecer um suporte aos alunos de fundamentos de programação durante o desenvolvimento de seus códigos
+- Este repositório tem o objetivo de fornecer um suporte aos alunos de fundamentos de programação durante o desenvolvimento de seus códigos usando a linguagem Python. Neste repositório você encontrará resoluções de questões comumentes utilizadas nas disciplinas introdutórias de programação. Também esta disponível neste repositório alguns projetos exemplos para que possam guiá-los na criação dos seus próprios projetos.
   
 -----
 
-## **Informação sobre o Professor**
+## **Informação sobre o Mantenedor deste Repositório**
 
 - Prof. Maurício Moreira Neto
   
@@ -29,7 +27,7 @@
 
 ## **Hierarquia dos Materiais**
 
-- Cada `folder` possui um conjunto de arquivos Python referentes as questões da lista de exercícios
+- Neste repositório cada `folder` possui um conjunto de arquivos Python referentes as questões da lista de exercícios
   
 - A resolução da lista é de fundamental importância para a fixação do conteúdo ministrado (além de ser divertido :smile:)
   
@@ -76,7 +74,7 @@ exercicio-python/
 
 ## **Executando Códigos Python**
 
-- Assumi-se aqui que você já instalou o Python 3
+- Assumi-se aqui que você já tem instalado o Python 3
 
 - Para executar códigos basta abrir o `terminal` (se estiver no *windows* é o `prompt` ou `cmd`) e se dirigir até o diretório onde esta o código que deseja ser executado
   
