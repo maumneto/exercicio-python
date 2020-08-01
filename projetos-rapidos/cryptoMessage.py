@@ -1,4 +1,5 @@
 '''
+@autor: maumneto
 ALGORITMO PARA CODIFICAR E DESCODIFICAR UMA PALAVRA
 A cifra é um sistema que é utilizado para esconder o significado de uma mensagem trocando as letras
 do alfabeto por outras letras ou símbolos!
